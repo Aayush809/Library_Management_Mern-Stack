@@ -117,7 +117,7 @@ export const Book = () => {
                                     </TableRow>
                                     <TableRow>
                                         <TableCell variant="head" component="th">
-                                            ISBN
+                                            Roll No.
                                         </TableCell>
                                         <TableCell>{book.isbn}</TableCell>
                                     </TableRow>
