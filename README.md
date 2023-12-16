@@ -4,6 +4,8 @@ This project is a simple Library Management System implemented using the MERN (M
 
 ## Installation
 
+<h4>Guest: user: guest password: guest </h4>
+ <h4>Admin: Username:admin Password:admin </h4>
 ### Prerequisites
 
 - Node.js and npm installed
