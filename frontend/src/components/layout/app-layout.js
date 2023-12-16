@@ -117,7 +117,7 @@ export const AppLayout = () => {
                                     color: "white",
                                 }}
                             >
-                                Library Management System
+                                Online Library
                             </Typography>
                         </Link>
                         <Box
@@ -165,7 +165,7 @@ export const AppLayout = () => {
                                     }}
                                     sx={{ my: 2, color: "white", display: "block" }}
                                 >
-                                    Login
+                                    Sign In
                                 </Button>
                             )}
                         </Box>
